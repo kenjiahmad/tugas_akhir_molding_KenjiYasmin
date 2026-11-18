@@ -3,13 +3,9 @@
 **Kasus:** 01 - Pengendalian mutu injection molding · **Aplikasi:** https://tugasakhirmoldingkenjiyasmin-qyqifvknuvkdqkyvkzgmza.streamlit.app/ · **Video:** 
 
 | Anggota | NIM | Bagian yang dikerjakan |
-|---|---|---|
-| Kenji Ahmad Darelly | 2405840 | Data & Rekayasa Fitur: Eksplorasi data (EDA), pembersihan data (duplikat, nilai kosong, dan nilai mustahil secara fisika), serta pembuatan modul feature engineering (src/features.py). |
-| | | Pemodelan: Pelatihan model baseline dan XGBoost serta penyimpanan artefak model (model.joblib). |
-| | | Web App, API & Deployment: Integrasi pipeline prediksi ke aplikasi web, pengembangan endpoint REST API (FastAPI), pengelolaan repositori GitHub, dan deployment online ke Streamlit Cloud. |
-| Yasmin Tia Nizarini | 2403165 | Pemodelan & Optimasi Biaya: Komparasi performa model (Random Forest vs XGBoost), evaluasi metrik PR-AUC, serta optimasi threshold keputusan (0.23) berbasis asumsi biaya FN dan FP. |
-| | | Web App & Pengujian: Perancangan antarmuka pengguna (UI) aplikasi web Streamlit (fitur input satuan & unggah batch CSV) serta pengujian skenario prediksi kualitas. |
-| | | Dokumentasi & Video: Penyusunan laporan akhir dan dokumentasi README.md, penyusunan alur presentasi, serta editing video demo. |
+| --- | --- | --- |
+| Kenji Ahmad Darelly | 2405840 | EDA, pembersihan data, *feature engineering* (`src/features.py`), pemodelan XGBoost, pengembangan REST API (FastAPI), serta *deployment* GitHub & Streamlit Cloud |
+| Yasmin Tia Nizarini | 2403165 | Komparasi model & evaluasi PR-AUC, optimasi *threshold* berbasis biaya, pengembangan antarmuka web Streamlit & pengujian skenario, penyusunan laporan, serta *editing* video demo |
 
 ## Masalah dan pengguna
 
