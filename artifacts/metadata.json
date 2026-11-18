@@ -1,0 +1,39 @@
+{
+  "versi_model": "1.0.0",
+  "algoritma": "XGBoost",
+  "dibuat": "2026-11-17",
+  "fitur_input": [
+    "mesin",
+    "shift",
+    "bahan",
+    "suhu_leleh_C",
+    "suhu_cetakan_C",
+    "tekanan_injeksi_bar",
+    "kecepatan_injeksi_mm_s",
+    "waktu_pendinginan_s",
+    "waktu_siklus_s",
+    "kelembaban_bahan_pct"
+  ],
+  "target": "cacat",
+  "threshold": 0.23,
+  "metrik_validasi": {
+    "pr_auc_baseline_lr": 0.4989,
+    "pr_auc_rf": 0.5913,
+    "pr_auc_xgb": 0.6194
+  },
+  "metrik_test": {
+    "pr_auc": 0.6504,
+    "recall": 0.8792,
+    "precision": 0.2659
+  },
+  "asumsi_biaya": {
+    "FN": 500000,
+    "FP": 25000
+  },
+  "versi_library": {
+    "python": "3.13.18",
+    "sklearn": "1.6.1",
+    "xgboost": "3.4.1",
+    "pandas": "2.2.3"
+  }
+}
