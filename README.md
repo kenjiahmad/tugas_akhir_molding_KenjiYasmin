@@ -1,6 +1,6 @@
 # Prediksi Cacat Produk Injection Molding · Tim KenjiYasmin
 
-**Kasus:** 01 - Pengendalian mutu injection molding · **Aplikasi:** [ISI_LINK_STREAMLIT_KALIAN] · **Video:** [ISI_LINK_VIDEO_KALIAN]
+**Kasus:** 01 - Pengendalian mutu injection molding · **Aplikasi:** https://tugasakhirmoldingkenjiyasmin-qyqifvknuvkdqkyvkzgmza.streamlit.app/ · **Video:** 
 
 | Anggota | NIM | Bagian yang dikerjakan |
 |---|---|---|
