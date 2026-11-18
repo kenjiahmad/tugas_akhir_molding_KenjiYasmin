@@ -4,8 +4,8 @@
 
 | Anggota | NIM | Bagian yang dikerjakan |
 |---|---|---|
-| Kenji Ahmad Darelly | 2405840 | [Isi pembagian tugas Kenji, misal: EDA, pembersihan data, feature engineering] |
-| Yasmin Tia Nizarini | 2403165 | [Isi pembagian tugas Yasmin, misal: Pemodelan, tuning threshold, API & aplikasi web] |
+| Kenji Ahmad Darelly | 2405840 | Data & Rekayasa Fitur: Eksplorasi data (EDA), pembersihan data (duplikat, nilai kosong, dan nilai mustahil secara fisika), serta pembuatan modul feature engineering (src/features.py). Pemodelan: Pelatihan model baseline dan XGBoost serta penyimpanan artefak model (model.joblib). Web App, API & Deployment: Integrasi pipeline prediksi ke aplikasi web, pengembangan endpoint REST API (FastAPI), pengelolaan repositori GitHub, dan deployment online ke Streamlit Cloud. |
+| Yasmin Tia Nizarini | 2403165 | Pemodelan & Optimasi Biaya: Komparasi performa model (Random Forest vs XGBoost), evaluasi metrik PR-AUC, serta optimasi threshold keputusan (0.23) berbasis asumsi biaya FN dan FP. Web App & Pengujian: Perancangan antarmuka pengguna (UI) aplikasi web Streamlit (fitur input satuan & unggah batch CSV) serta pengujian skenario prediksi kualitas. Dokumentasi & Video: Penyusunan laporan akhir dan dokumentasi README.md, penyusunan alur presentasi, serta editing video demo. |
 
 ## Masalah dan pengguna
 
