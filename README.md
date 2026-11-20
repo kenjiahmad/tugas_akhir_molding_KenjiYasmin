@@ -1,6 +1,9 @@
 # Prediksi Cacat Produk Injection Molding · Tim KenjiYasmin
 
-**Kasus:** 01 - Pengendalian mutu injection molding · **Aplikasi:** https://tugasakhirmoldingkenjiyasmin-qyqifvknuvkdqkyvkzgmza.streamlit.app/ · **Video:** https://drive.google.com/drive/folders/1rk7Q_rQ-CoNzu9vFC217uI51LrfgHR_X?usp=sharing 
+**Kasus:** 01 - Pengendalian mutu injection molding 
+· **Aplikasi:** https://tugasakhirmoldingkenjiyasmin-qyqifvknuvkdqkyvkzgmza.streamlit.app/ 
+· **Video:** https://drive.google.com/drive/folders/1rk7Q_rQ-CoNzu9vFC217uI51LrfgHR_X?usp=sharing 
+· **Laporan:** https://drive.google.com/drive/folders/1hvBOffEWYcqv3dufo_ipnZ5w4oA0jjIL?usp=sharing
 
 | Anggota | NIM | Bagian yang dikerjakan |
 | --- | --- | --- |
