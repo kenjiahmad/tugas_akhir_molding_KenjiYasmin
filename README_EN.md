@@ -3,7 +3,7 @@
 An end-to-end machine learning application designed to predict product defect risks during injection molding production cycles, served via a FastAPI REST API and an interactive Streamlit web interface.
 
 - **Live Application:** https://tugasakhirmoldingkenjiyasmin-qyqifvknuvkdqkyvkzgmza.streamlit.app/
-- **Demo Walkthrough:** [Google Drive Video](https://drive.google.com/drive/folders/1rk7Q_rQ-CoNzu9vFC217ul51LrfgHR_X?usp=sharing) *(Audio in Indonesian)*
+- **Demo Walkthrough:** https://drive.google.com/drive/folders/1rk7Q_rQ-CoNzu9vFC217uI51LrfgHR_X?usp=sharing *(Audio in Indonesian)*
 
 ## Problem Statement & Target Users
 Built for **plant managers** and **quality control (QC) operators** on injection molding production lines. The model predicts defect probability per molding cycle before items move to the next production stage, enabling targeted manual inspection[cite: 5]. By prioritizing high-risk items, the system minimizes operational losses from undetected defects (**False Negative cost = IDR 500,000**) relative to re-inspection costs (**False Positive cost = IDR 25,000**)[cite: 5].
