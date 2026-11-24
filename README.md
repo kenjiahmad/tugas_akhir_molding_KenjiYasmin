@@ -1,4 +1,5 @@
 # Prediksi Cacat Produk Injection Molding · Tim KenjiYasmin
+[Read in English](./README_EN.md)
 
 **Kasus:** 01 - Pengendalian mutu injection molding 
 
